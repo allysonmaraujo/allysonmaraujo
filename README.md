@@ -26,7 +26,7 @@ Sou um estudante desenvolvedor backend em transição de carreira e um apaixonad
 
 - 🌱 Atualmente estudando focado em JavaScript
 - 🤔 Estou procurando por Projetos!
-- 💬 Me perguinte sobre Javascript!
+- 💬 Me pergunte sobre Javascript!
 - 📫 Me contacte pelo **allyson.m.araujo@gmail.com**
 - 🧠 Expertise em Redes de Computadores 
 
