@@ -48,6 +48,6 @@ Sou um estudante desenvolvedor backend em transição de carreira e um apaixonad
 <summary><b>Status Públicos do Github ⚡</b></summary>
 <br>
 <p align="center">
-<img height="170em" src="https://github-readme-stats-vert-three-11.vercel.app/api?username=allysonmaraujo&show_icons=true&theme=radical&hide"/>
-<img height="170em" src="https://github-readme-stats-vert-three-11.vercel.app/api/top-langs/?username=allysonmaraujo&layout=compact&langs_count=6&theme=radical&hide"/>
+<img height="160em" src="https://github-readme-stats-vert-three-11.vercel.app/api?username=allysonmaraujo&show_icons=true&theme=radical&hide"/>
+<img height="160em" src="https://github-readme-stats-vert-three-11.vercel.app/api/top-langs/?username=allysonmaraujo&layout=compact&langs_count=6&theme=radical&hide"/>
 </p>
