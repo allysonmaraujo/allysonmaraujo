@@ -11,7 +11,7 @@
 -->
 
 <div>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=allysonmaraujo&show_icons=true&theme=material-palenight&include_all_commits=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=allysonmaraujo&show_icons=true&theme=material-palenight&include_all_commits=true"/>
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=allysonmaraujo&layout=compact&langs_count=7&theme=material-palenight"/>
 </div>
 
