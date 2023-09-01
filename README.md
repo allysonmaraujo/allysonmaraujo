@@ -9,4 +9,10 @@
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...
 -->
+
+<div>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=renataalbq&show_icons=true&theme=material-palenight&include_all_commits=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renataalbq&layout=compact&langs_count=7&theme=material-palenight"/>
+</div>
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
