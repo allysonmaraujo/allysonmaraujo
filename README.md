@@ -14,7 +14,8 @@ ___Resumo
 - 💬 Me perguinte sobre Javascript!
 - 📫 Me contacte pelo **allyson.m.araujo@gmail.com**
 
-
+<div>
+<div>
 ___Status
 <div>
     <img height="165em" src="https://github-readme-stats.vercel.app/api?username=allysonmaraujo&show_icons=true&theme=material-palenight&include_all_commits=true"/>
