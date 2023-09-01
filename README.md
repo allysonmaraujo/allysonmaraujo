@@ -15,4 +15,4 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=allysonmaraujo&layout=compact&langs_count=7&theme=material-palenight"/>
 </div>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=allysonmaraujo&theme=onedark)](https://github.com/allysonmaraujo/github-profile-trophy)
