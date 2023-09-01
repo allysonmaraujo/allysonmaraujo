@@ -4,6 +4,7 @@
 <br>
 
 <summary><b> Me ache por aqui 👇🏻 </b></summary>
+<br>
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/allysonmaraujo/)
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/allyson.m.araujo/)
@@ -12,6 +13,7 @@
 <br>
 <br>
 <summary><b>Sobre mim 👁‍🗨 </b></summary>
+<br>
 
 <p align="center">
 Sou um estudante desenvolvedor backend em transição de carreira e um apaixonado por tecnologia. Tenho por objetivo me especializar em desenvolver aplicativos da web, mobile. Sou generalista em TI (Suporte Técnico, Administração de Redes e Sistemas Internos, Cloud Computing, Segurança Digital). Estou constantemente aprendendo e experimentando novas tecnologias. 
@@ -30,14 +32,14 @@ Sou um estudante desenvolvedor backend em transição de carreira e um apaixonad
 
 <br>
 
-<summary><b>Skills__💻</b></summary>
+<summary><b>Skills 💻</b></summary>
 <br>
 
 ![JavaScript](https://img.shields.io/badge/Javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
 <br>
 <br>
-<summary><b>Tools__🛠</b></summary>
+<summary><b>Tools 🛠</b></summary>
 <br>
 
 ![Git](https://img.shields.io/badge/-git-red?style=for-the-badge&logo=Git&logoColor=white)&nbsp;
