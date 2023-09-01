@@ -1,14 +1,14 @@
 ### Olá. 👋
 
 ___Sobre
-</div>
+
 <p align="center">
 Sou um estudante de programação web em transição de carreira e um apaixonado por tecnologia. Tenho por objetivo me especializar em desenvolver aplicativos da web, mobile. Sou generalista em TI (Suporte Técnico, Administração de Redes e Sistemas Internos, Cloud Computing, Segurança Digital). Estou constantemente aprendendo e experimentando novas tecnologias. 
 </p>
-</div>
 
 <div>
 ___Resumo
+    
 - 🌱 Atualmente estudando focado em JavaScript
 - 🤔 Estou procurando por Projetos!
 - 💬 Me perguinte sobre Javascript!
