@@ -37,6 +37,8 @@ Sou um estudante desenvolvedor backend em transição de carreira e um apaixonad
 
 ![JavaScript](https://img.shields.io/badge/Javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
+![Postgresql](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
 <br>
 <br>
 <summary><b>Tools 🛠</b></summary>
@@ -49,7 +51,9 @@ Sou um estudante desenvolvedor backend em transição de carreira e um apaixonad
 <br>
 <summary><b>Status Públicos do Github ⚡</b></summary>
 <br>
+<br>
 <p align="center">
-<img height="160em" src="https://github-readme-stats-vert-three-11.vercel.app/api?username=allysonmaraujo&show_icons=true&theme=radical&hide"/>
-<img height="160em" src="https://github-readme-stats-vert-three-11.vercel.app/api/top-langs/?username=allysonmaraujo&layout=compact&langs_count=6&theme=radical&hide"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=allysonmaraujo&show_icons=true&theme=radical"/>
 </p>
+</details>
