@@ -16,7 +16,8 @@
 <br>
 
 <p align="center">
-Sou um estudante desenvolvedor backend em transição de carreira e um apaixonado por tecnologia. Tenho por objetivo me especializar em desenvolver aplicativos da web, mobile. Sou generalista em TI (Suporte Técnico, Administração de Redes e Sistemas Internos, Cloud Computing, Segurança Digital). Estou constantemente aprendendo e experimentando novas tecnologias. 
+Trabalhei boa parte da minha carreira com instalação e manutenção de Rede de Computadores Windows e tenho como objetivo fazer transição para
+desenvolvimento com foco em Back-End, sempre disponível e dedicado, aberto anovos desafios.. 
 </p>
 
 <br>
@@ -24,11 +25,11 @@ Sou um estudante desenvolvedor backend em transição de carreira e um apaixonad
 <summary><b>Resumo 🗒 </b></summary>
 <br>
 
-- 🌱 Atualmente estudando focado em JavaScript
+- 🌱 Atualmente focado em JavaScript
 - 🤔 Estou procurando por Projetos!
-- 💬 Me pergunte sobre Javascript!
+- 💬 Me pergunte sobre Back-end, Javascript, SQL...
 - 📫 Me contacte pelo **allyson.m.araujo@gmail.com**
-- 🧠 Expertise em Redes de Computadores 
+- 🧠 Expertise em Redes de Computadores e Servidores Windows
 
 <br>
 
