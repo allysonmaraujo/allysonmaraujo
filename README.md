@@ -22,14 +22,14 @@ Meu foco está em Desenvolvimento com foco em Back-End, atualmente estudando e e
 #### Resumo das minhas Hard Skills 🗒
 
 - Aplicações reativas, síncronas e assíncronas utilizando APIs com NodeJs;<br>
-- Banco de dados relacionais;<br>
 - Desenvolvimento de API em padrão REST;<br>
+- Banco de dados relacionais;<br>
+- Utilização de S.O. Linux (Ubuntu/Debian);<br>
 - Conhecimento em Testes com Jest;<br>
 - Conhecimento em Swagger Documentation;<br>
 - Versionamento e Gerenciamento de código utilizando Git;<br>
 - Conhecimento em ambientes de cloud (Google Cloud, AWS, etc);<br>
-- Utilização de S.O. Linux (Ubuntu/Debian);<br>
-- Familiaridade com metodologias ágeis;<br>
+- Conhecimento com metodologias ágeis;<br>
 - Trabalho em equipes multidisciplinares;<br>
 
 <br>
@@ -42,9 +42,8 @@ Meu foco está em Desenvolvimento com foco em Back-End, atualmente estudando e e
 <br>
 
 ### Tools 🛠
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="80" height="80"/> <img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" width="80" height="80"/> <img loading="lazy"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/GitHub_Invertocat_Logo.svg/300px-GitHub_Invertocat_Logo.svg.png" width="80" height="80"/> <img loading="lazy" src="https://www.beekeeperstudio.io/static/press-kit/bk-logo-icon-monowhite.svg" width="80" height="80"/> <img loading="lazy" src="https://cdn.worldvectorlogo.com/logos/postman.svg" width="80" height="80"/> <img loading="lazy" src="https://www.svgrepo.com/show/353904/insomnia.svg" width="80" height="80"/>
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="80" height="80"/> <img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" width="80" height="80"/> <img loading="lazy"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/GitHub_Invertocat_Logo.svg/300px-GitHub_Invertocat_Logo.svg.png" width="80" height="80"/> <img loading="lazy" src="https://www.beekeeperstudio.io/static/press-kit/bk-logo-icon-monowhite.svg" width="80" height="80"/> <img loading="lazy" src="https://cdn.worldvectorlogo.com/logos/postman.svg" width="80" height="80"/> <img loading="lazy" src="https://www.svgrepo.com/show/353904/insomnia.svg" width="80" height="80"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg" width="80" height="80"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original-wordmark.svg" width="80" height="80"/>
 
-     
      
 <br>
 
