@@ -21,7 +21,7 @@ Meu foco está em Desenvolvimento com foco em Back-End, atualmente estudando e e
 
 #### Resumo das minhas Hard Skills 🗒
 
-- Arquiteturas de aplicações em micro serviços, reativas, síncronas e assíncronas utilizando APIs com NodeJs;<br>
+- Aplicações reativas, síncronas e assíncronas utilizando APIs com NodeJs;<br>
 - Banco de dados relacionais;<br>
 - Desenvolvimento de API em padrão REST;<br>
 - Conhecimento em Testes com Jest;<br>
