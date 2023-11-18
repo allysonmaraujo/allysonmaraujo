@@ -14,7 +14,9 @@
 
 #### Sobre mim 👁‍🗨
 <p align="center">
-Meu foco está em Desenvolvimento com foco em Back-End, atualmente estudando e evoluindo em Java e Javscript, trabalhei boa parte da minha carreira com Rede de Computadores Windows (Server e Desktop) e estou em transição de carreira.
+Olá meu nome é Allyson, sou um desenvolvedor de software back-end apaixonado por desenvolver soluções eficientes e resolver problemas complexos.
+Estou na área de desenvolvimento há 1 ano e meio, e nos últimos 8 meses venho buscando me desenvolver na área de back-end especificamente com NodeJs/Javascript, pois permite focar na lógica do negócio, seja desenvolvendo APIs ou interligando o Banco de Dados.
+
 </p>
 
 <br>
