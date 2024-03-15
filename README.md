@@ -37,14 +37,38 @@ Estou na área de desenvolvimento há 1 ano e meio, e nos últimos 8 meses venho
 <br>
 
 ### Skills 💻
-<img loading="lazy" src="https://www.svgrepo.com/show/376337/node-js.svg" width="80" height="80"/> <img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/d/db/Npm-logo.svg" width="80" height="80"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="80" height="80"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width="80" height="80"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="80" height="80"/> <img loading="lazy" src="https://mariadb.com/wp-content/uploads/2019/11/mariadb-horizontal-blue.svg" width="80" height="80"/> <img loading="lazy" src="https://openjsf.org/wp-content/uploads/sites/84/2022/05/jest.svg" width="80" height="80"/>
 
+![Descrição adicional opcional](https://img.shields.io/badge/-JAVASCRIPT-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
+![Descrição adicional opcional](https://img.shields.io/badge/-NPM-CB3837?logo=npm&logoColor=black&style=for-the-badge)
+![Descrição adicional opcional](https://img.shields.io/badge/-NODE.JS-339933?logo=nodedotjs&logoColor=black&style=for-the-badge)
+![Descrição adicional opcional](https://img.shields.io/badge/-EXPRESS.JS-000000?logo=express&logoColor=white&style=for-the-badge)
+![Descrição adicional opcional](https://img.shields.io/badge/-JEST-C21325?logo=jest&logoColor=black&style=for-the-badge)
+![Descrição adicional opcional](https://img.shields.io/badge/-SWAGGER-85EA2D?logo=swagger&logoColor=black&style=for-the-badge)
 
+![Descrição adicional opcional](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=black&style=for-the-badge)
+![Descrição adicional opcional](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=black&style=for-the-badge)
+![Descrição adicional opcional](https://img.shields.io/badge/-PYTHON-3776AB?logo=python&logoColor=black&style=for-the-badge)
 
 <br>
 
 ### Tools 🛠
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="80" height="80"/> <img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" width="80" height="80"/> <img loading="lazy"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/GitHub_Invertocat_Logo.svg/300px-GitHub_Invertocat_Logo.svg.png" width="80" height="80"/> <img loading="lazy" src="https://www.beekeeperstudio.io/static/press-kit/bk-logo-icon-monowhite.svg" width="80" height="80"/> <img loading="lazy" src="https://cdn.worldvectorlogo.com/logos/postman.svg" width="80" height="80"/> <img loading="lazy" src="https://www.svgrepo.com/show/353904/insomnia.svg" width="80" height="80"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg" width="80" height="80"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original-wordmark.svg" width="80" height="80"/>
+
+![Descrição adicional opcional](https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=white&style=for-the-badge)
+![Descrição adicional opcional](https://img.shields.io/badge/-AZURE-232F3E?logo=microsoftazure&logoColor=white&style=for-the-badge)
+![Descrição adicional opcional](https://img.shields.io/badge/-GOOGLE_CLOUD-4285F4?logo=googlecloud&logoColor=white&style=for-the-badge)
+![Descrição adicional opcional](https://img.shields.io/badge/-GITHUB-181717?logo=github&logoColor=white&style=for-the-badge)
+![Descrição adicional opcional](https://img.shields.io/badge/-INSOMNIA-4000BF?logo=insomnia&logoColor=black&style=for-the-badge)
+![Descrição adicional opcional](https://img.shields.io/badge/-UBUNTU-E95420?logo=ubuntu&logoColor=black&style=for-the-badge)
+![Descrição adicional opcional](https://img.shields.io/badge/-VSCODE-007ACC?logo=visualstudiocode&logoColor=black&style=for-the-badge)
+![Descrição adicional opcional](https://img.shields.io/badge/-INTELLIJ-000000?logo=intellijidea&logoColor=white&style=for-the-badge)
+
+![Descrição adicional opcional](https://img.shields.io/badge/-TRELLO-0052CC?logo=trello&logoColor=black&style=for-the-badge)
+![Descrição adicional opcional](https://img.shields.io/badge/-FIGMA-F24E1E?logo=figma&logoColor=black&style=for-the-badge)
+![Descrição adicional opcional](https://img.shields.io/badge/-POSTMAN-FF6C37?logo=postman&logoColor=black&style=for-the-badge)
+![Descrição adicional opcional](https://img.shields.io/badge/-POSTGRESQL-4169E1?logo=postgresql&logoColor=black&style=for-the-badge)
+![Descrição adicional opcional](https://img.shields.io/badge/-MONGODB-47A248?logo=mongodb&logoColor=black&style=for-the-badge)
+![Descrição adicional opcional](https://img.shields.io/badge/-MONGOOSE-880000?logo=mongoose&logoColor=black&style=for-the-badge)
+![Descrição adicional opcional](https://img.shields.io/badge/-MARIADB-003545?logo=mariadb&logoColor=black&style=for-the-badge)
 
      
 <br>
