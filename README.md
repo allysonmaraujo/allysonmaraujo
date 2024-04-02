@@ -15,7 +15,7 @@
 #### Sobre mim 👁‍🗨
 <p align="center">
 Olá meu nome é Allyson, sou um desenvolvedor de software back-end apaixonado por desenvolver soluções eficientes e resolver problemas complexos.
-Estou na área de desenvolvimento há 1 ano e meio, e nos últimos 8 meses venho buscando me desenvolver na área de back-end especificamente com NodeJs/Javascript, pois permite focar na lógica do negócio, seja desenvolvendo APIs ou interligando o Banco de Dados.
+Venho buscando me desenvolvendo na área de back-end especificamente com NodeJs/Javascript, pois permite focar na lógica do negócio, seja desenvolvendo APIs ou interligando o Banco de Dados.
 
 </p>
 
