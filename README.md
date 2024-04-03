@@ -7,9 +7,7 @@
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/allyson.m.araujo/)
 [<img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:allyson.m.araujo@gmail.com">](mailto:allyson.m.araujo@gmail.com)
 <a href="https://discord.gg/allyson.m.araujo" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
-<br>
-#### 📫 Meu email: **allyson.m.araujo@gmail.com**
-<br>
+
 <br>
 
 #### Sobre mim 👁‍🗨
