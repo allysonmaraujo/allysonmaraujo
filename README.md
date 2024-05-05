@@ -1,5 +1,10 @@
-### Olá, Bem Vindo, me chamo Allyson.
+### Olá, Bem Vindo!
 <br>
+
+<p align="left">
+Meu nome é Allyson, estou estudando atualmente na Ciências da Computação Faculdade Estácio
+
+</p>
 
 #### Me encontre por aqui 👇🏻
 
@@ -10,12 +15,6 @@
 
 <br>
 
-#### Sobre mim 👁‍🗨
-<p align="center">
-Olá meu nome é Allyson, sou um desenvolvedor de software back-end apaixonado por desenvolver soluções eficientes e resolver problemas complexos.
-Venho buscando me desenvolvendo na área de back-end especificamente com NodeJs/Javascript, pois permite focar na lógica do negócio, seja desenvolvendo APIs ou interligando o Banco de Dados.
-
-</p>
 
 <br>
 
@@ -36,33 +35,36 @@ Venho buscando me desenvolvendo na área de back-end especificamente com NodeJs/
 <br>
 
 ### Estudando Atualmente
-
 ![Python](https://img.shields.io/badge/-PYTHON-3776AB?logo=python&logoColor=black&style=for-the-badge)
 ![Java](https://img.shields.io/badge/Java-CC342D?style=for-the-badge&logo=openjdk&logoColor=white)
 <br>
 
-### Stack Skills 💻
+### Tecnologias 💻
+BackEnd: 
 ![Javascript](https://img.shields.io/badge/-JAVASCRIPT-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
 ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/-EXPRESS.JS-000000?logo=express&logoColor=white&style=for-the-badge)
+
+FrontEnd:
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
+DataBase: 
 ![Descrição adicional opcional](https://img.shields.io/badge/-POSTGRESQL-4169E1?logo=postgresql&logoColor=black&style=for-the-badge)
 ![Descrição adicional opcional](https://img.shields.io/badge/-MONGODB-47A248?logo=mongodb&logoColor=black&style=for-the-badge)
 ![Descrição adicional opcional](https://img.shields.io/badge/-MARIADB-003545?logo=mariadb&logoColor=black&style=for-the-badge)
 <br>
 
-### Tools 🛠
-
+Tools:
 ![Descrição adicional opcional](https://img.shields.io/badge/-UBUNTU-E95420?logo=ubuntu&logoColor=black&style=for-the-badge)
 ![Descrição adicional opcional](https://img.shields.io/badge/-POSTMAN-FF6C37?logo=postman&logoColor=black&style=for-the-badge)
 ![Descrição adicional opcional](https://img.shields.io/badge/-INSOMNIA-4000BF?logo=insomnia&logoColor=black&style=for-the-badge)
 ![Descrição adicional opcional](https://img.shields.io/badge/-TRELLO-0052CC?logo=trello&logoColor=black&style=for-the-badge)
 ![Descrição adicional opcional](https://img.shields.io/badge/-FIGMA-F24E1E?logo=figma&logoColor=black&style=for-the-badge)
-
-![Descrição adicional opcional](https://img.shields.io/badge/-VSCODE-007ACC?logo=visualstudiocode&logoColor=black&style=for-the-badge)
 ![Descrição adicional opcional](https://img.shields.io/badge/-GITHUB-181717?logo=github&logoColor=white&style=for-the-badge)
+
+IDE:
+![Descrição adicional opcional](https://img.shields.io/badge/-VSCODE-007ACC?logo=visualstudiocode&logoColor=black&style=for-the-badge)
 ![Descrição adicional opcional](https://img.shields.io/badge/-INTELLIJ-000000?logo=intellijidea&logoColor=white&style=for-the-badge)
 
 
@@ -71,10 +73,7 @@ Venho buscando me desenvolvendo na área de back-end especificamente com NodeJs/
 
 ### 📊 GitHub Stats ⚡
 
-<a href="https://stats.dooboo.io"><img src="https://stats.dooboo.io/api/github-stats-advanced?login=allysonmaraujo" width="600" /></a>
-
-<br>
-<p>
-<img src="https://github-readme-stats.vercel.app/api?username=allysonmaraujo&show_icons=true&theme=radical" width="600"/>
+<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=allysonmaraujo&layout=compact&langs_count=7&theme=dracula"/>
+<img height="200em" src="https://github-readme-stats.vercel.app/api?username=allysonmaraujo&show_icons=true&theme=dracula" />
 </p>
 </details>
